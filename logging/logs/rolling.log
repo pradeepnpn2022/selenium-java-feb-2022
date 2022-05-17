@@ -1,0 +1,4 @@
+2022-05-14 08:30:41 WARN  TestLogging:10 - This is warning log
+2022-05-14 08:30:41 ERROR TestLogging:11 - This is error log
+2022-05-14 08:30:41 DEBUG TestLogging:12 - THis is debug log
+2022-05-14 08:30:41 TRACE TestLogging:13 - This is trace log
