@@ -2,5 +2,6 @@ bin/
 .classpath
 .project
 .settings
+.settings/
 target/
 test-output/
