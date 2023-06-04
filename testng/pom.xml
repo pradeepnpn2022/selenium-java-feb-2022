@@ -3,6 +3,7 @@
   <groupId>com.npntraining</groupId>
   <artifactId>testng</artifactId>
   <version>1.0</version>
+  <build>
   <plugins>
   <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -15,6 +16,7 @@
         </configuration>
       </plugin>
   </plugins>
+  </build>
   <dependencies>
   <dependency>
   <groupId>org.apache.maven.surefire</groupId>
